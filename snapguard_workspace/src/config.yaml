@@ -1,0 +1,4 @@
+# Thresholds
+thresholds:
+  temp: 65.0
+  vibration: 50.0

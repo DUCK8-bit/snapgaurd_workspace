@@ -1,0 +1,9 @@
+torch
+torchvision
+ultralytics
+pyserial
+numpy
+opencv-python
+pyyaml
+qai-hub
+qai-hub-models[yolov8]
